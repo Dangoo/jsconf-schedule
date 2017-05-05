@@ -14,6 +14,7 @@ To run the application, clone the repository, then run:
 
 ```shell
 $ npm install
+$ npm run build
 $ npm run dev
 ```
 
